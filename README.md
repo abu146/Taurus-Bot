@@ -75,7 +75,7 @@ __________________
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://bit.ly/3x8QSyf)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abu146/Taurus-Bot-captain-gibbs)
 -------
 <br>
 <br >
