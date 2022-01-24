@@ -1,19 +1,19 @@
 
 <p align="center">
-𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓
+𝐅𝐑𝐊 𝐉𝐀𝐂𝐊 𝐒𝐏𝐀𝐑𝐑𝐎𝐖
 
 <p align="center">
-𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳
+𝐅𝐑𝐊 𝐉𝐀𝐂𝐊 𝐒𝐏𝐀𝐑𝐑𝐎𝐖
 
 ##
 <a href="https://bit.ly/3koZRGY"><img src="Booyah.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="TAURUSGFX2.gif" alt="GIF" width="150" height="150"/>
+        <img src="Booyah.png" alt="GIF" width="150" height="150"/>
 </p>
 
 <div align="center">
 
-## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+MUHAMMED;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
+## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+abu146;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
 
  </a>
 </p>
@@ -24,11 +24,11 @@
 </p>
        
   <p align="center">
-<a href="https://github.com/muhammed-userbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/abu146-userbot"><img title="Author" src="https://img.shields.io/badge/Author-abu146-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/abu146-usrbot">abu146-usrbot</a>
     <br>
        | © |
         Reserved |
@@ -49,16 +49,17 @@
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-userbot&show_icons=true&theme=dark&locale=en" alt="muhammed-userbot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abu146-userbot&show_icons=true&theme=dark&locale=en" alt="abu146-userbot" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-userbot&theme=dark" alt="muhammed-usrbot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu146-userbot&theme=dark" alt="abu146-usrbot" /></p>
 </p>
 
 
 ##
-  <h3 align="center">ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</h3>
+  <h3 align="center">𝗖𝗹𝗶𝗰𝗸 𝘁𝗼 𝗷𝗼𝗶𝗻 𝗼𝘂𝗿 𝗲𝗦𝗽𝗼𝗿𝘁𝘀 𝘀𝗰𝗿𝗶𝗺𝘀 𝗴𝗿𝗼𝘂𝗽
+</h3>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
+  <a href="https://https://chat.whatsapp.com/FPEGv0qh6agF3Gzmds2GwQ" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
 </p>
 
 
@@ -97,7 +98,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/muhammed-userbot/taurus-bot
+$ git clone https://github.com/abu146-userbot/taurus-bot
 $ cd taurus-bot
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -107,7 +108,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/muhammed-userbot/taurus-bot
+$ git clone https://github.com/abu146-userbot/taurus-bot
 $ cd taurus-bot
 $ chmod +x *
 $ npm i
@@ -129,14 +130,14 @@ By establishing the Taurus-Bot, you are deemed to have accepted these responsibi
 ## Developers 
   <div align="center">
     
-  [![muhammed-usrbot](https://github.com/muhammed-userbot.png?size=100)](https://github.com/muhammed-userbot) | [![TOXIDE-SER](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![TAURUS](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
+  [![abu146-usrbot](https://github.com/abu146-userbot.png?size=100)](https://github.com/abu146-userbot) | [![TOXIDE-SER](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![TAURUS](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
 ----|----|----
-[MUHAMMED](https://github.com/muhammed-userbot) | [TOXIDE-SER](https://github.com/TOXIDE-SER-444) | [TAURUS](https://github.com/taurus-x-toxide)
+[abu146](https://github.com/abu146-userbot) | [TOXIDE-SER](https://github.com/TOXIDE-SER-444) | [TAURUS](https://github.com/taurus-x-toxide)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributer 
-`MUHAMMED`
+`abu146`
         
         
 ## License 
